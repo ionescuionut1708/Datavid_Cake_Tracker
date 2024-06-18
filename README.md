@@ -24,7 +24,7 @@ Acest proiect este o aplicație web simplă, construită folosind Flask și SQLA
 
 1. Clonează acest repository:
     ```bash
-    git clone <[URL-ul repository-ului](https://github.com/ionescuionut1708/Datavid_Cake_Tracker)>
+    git clone https://github.com/ionescuionut1708/Datavid_Cake_Tracker
     ```
 2. Navighează în directorul proiectului:
     ```bash
